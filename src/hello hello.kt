@@ -1,12 +1,13 @@
 fun main() {
-        var name:String ="Nicole"
+   var name:String = "Faith Wanjiru"
+   var phoneNumber: String= "0706608505"
+   var weight: String = "50 kgs"
+        var age: Int=23
+        var citizenship:Boolean = true
         println(name)
-
-        var age:Int= 30
+        println(phoneNumber)
+        println(weight)
         println(age)
+        println(citizenship)
 
-        var student:Int=24
-        var bananaPerStudent : Int =3
-        var total =student * bananaPerStudent
-        print(total)
 }
